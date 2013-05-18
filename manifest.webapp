@@ -1,0 +1,17 @@
+{
+    "version": "0.0.1",
+    "name": "La Classe Américaine",
+    "launch_path": "/index.html",
+    "description": "Citation du flim La Classe Américaine",
+    "icons": {
+        "30": "/icon-30.png",
+        "60": "/icon-60.png",
+        "128": "/icon-128.png"
+    },
+    "developer": {
+        "name": "Nicolas Terray",
+        "url": "tbc"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "fr"
+}
