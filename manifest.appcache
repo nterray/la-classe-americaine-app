@@ -6,6 +6,8 @@ css/base.css
 js/base.js
 js/webapp.js
 js/offline.js
+js/quotes.js
+resources/quotes-light.js
 
 NETWORK:
 *
