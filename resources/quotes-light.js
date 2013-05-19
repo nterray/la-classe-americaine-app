@@ -1,4 +1,4 @@
-[
+var quotes = [
     "Attention, ce flim n’est pas un flim sur le cyclimse. Merci de votre compréhension.",
     "Entre l’Australia et la South América, dans l’océan South Pacific : l’atoll de Pom Pom Galli.",
     "— V12 appelle le capitaine George Abitbol, V12 appelle le capitaine George Abitbol. Quelqu’un vous demande sur le pont.\n— Qui ?\n— Un dénommé José.\n— OK, j’arrive, V12.",
