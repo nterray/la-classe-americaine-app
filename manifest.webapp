@@ -4,9 +4,9 @@
     "launch_path": "/index.html",
     "description": "Citation du flim La Classe Américaine",
     "icons": {
-        "30": "/icon-30.png",
-        "60": "/icon-60.png",
-        "128": "/icon-128.png"
+        "30": "/resources/img/icon-30.png",
+        "60": "/resources/img/icon-60.png",
+        "128": "/resources/img/icon-128.png"
     },
     "developer": {
         "name": "Nicolas Terray",
